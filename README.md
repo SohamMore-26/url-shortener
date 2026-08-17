@@ -3,7 +3,7 @@
 A full-stack URL shortener with click analytics. Create compact links, redirect visitors to the original URL, and view click totals and referrer data.
 
 **Live API:** [url-shortener-vk52.onrender.com](https://url-shortener-vk52.onrender.com)  
-**Live frontend:** _Add your Vercel URL here_
+**Live frontend:** short-go-url.vercel.app
 
 ## Features
 
